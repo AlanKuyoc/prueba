@@ -12,3 +12,9 @@ Esta es la tercera y última parte de mi texto. _Funciona asi_ ~texto tachado~
 | adwdaawd | wwewa |
 |valor1 | valor 2|
 
+==archivo resaltado==
+=archivo resaltado=
+
+
+==texto resaltado prueba=
+=
